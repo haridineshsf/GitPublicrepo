@@ -23,3 +23,5 @@ asdfas
 
     git config user.email "haridinesh.sf@gmail.com"
   git config  user.name "HariSF"
+
+  Direct commit from remote
