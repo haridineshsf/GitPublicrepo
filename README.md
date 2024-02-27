@@ -22,4 +22,8 @@ asdfas
   git config --global user.name "Your Name"
 
     git config user.email "haridinesh.sf@gmail.com"
-  git config  user.name "HariSF"
+  git config  user.name "HariSF"asdfa
+  dfa
+  sdfas
+  dfa
+  sdf
